@@ -1,0 +1,56 @@
+*LAUNCH
+
+v2+
+*at 10 - win and lock game show reset
+*timer to show reset
+*add yeay when someone wins
+*make scores "blocky"
+*add another map
+*Plus sign for controls
+*track control start and end so you can move your finger around and it will relate to interface item
+*remove fps limit (make about 30fps) - make sure speed doesn't change
+*show timer
+*edit settings
+*add borders to top and bottom of screen
+*add reflecting shots
+*alpha blending to do motion blur
+*explodeable barriers
+*Add tilesets for better looking tanks and barriers
+*iPad version
+
+
+vX
+*editor in game
+*create custom maps
+*share maps online
+*AI agent
+*play online
+
+
+Notes:
+120 off top and bottom, so -240 off of height of iPhone leaving
+ 480
+-240
+-----
+ 240px high
+ 320px wide
+
+240 / 5 = 48 high
+320 / 5 = 64 wide
+
+
+==Done==
+*add explosion sound
+*Create editor
+*Show barriers
+*Collision detection
+*Explosion and movement
+*prevent from going off screen
+*show scores
+*do other maps
+*fix it so backgrounds show up in iphone
+*make reset work
+ *clear score
+ *reset tank position
+ *next map
+*remove debug stuff

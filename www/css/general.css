@@ -1,0 +1,6 @@
+#errors{
+        background:red;
+        padding:1em;
+        display:none;
+        z-index:1000;
+}
